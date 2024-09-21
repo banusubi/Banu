@@ -1,6 +1,6 @@
 Gooday Designs - E-commerce Shopping Site for Chudi Tailoring
 
-Gooday Designs is an e-commerce platform dedicated to showcasing and tailoring custom blouse and chudi designs. Customers can browse through a variety of designs, view product details, add items to their cart, and complete the purchase process. The site offers an intuitive user experience with product search, login, account management, and a feedback form.
+Gooday Designs is an e-commerce platform dedicated to showcasing and tailoring custom blouse and chudi designs. Customers can browse through a variety of designs, view product details, add items to their cart, to complete the purchase process. The site offers an intuitive user experience with product search, login, account management, and a feedback form.
 Features
 1. Landing Page
 
