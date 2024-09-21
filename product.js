@@ -28,13 +28,6 @@ const products = {
             price: "$580",
             description: "At first glance, this charming blouse pattern shows a traditional feeling, while its deep V-cut neckline gives a romantic appeal."
         },
-        {
-            id: 5,
-            name: "Boat Neck Design",
-            image: "image/b7.jfif",
-            price: "$450",
-            description: "Boat neck blouse designs are gaining popularity as they come with modern and elegant touch. A saree blouse is an essential part of the traditional Indian wear for women."
-        }
     ],
     ChudiProducts : [
         {
@@ -65,14 +58,6 @@ const products = {
             price: "$800",
             description: "This churidar may be the best bet if you fancy wearing something traditional and colourful! Made with fine chanderi silk, the ensemble speaks of class and elegance."
         },
-        {
-            id: 10,
-            name: "purple Embellished chudidhar",
-            image: "image/c5.jfif",
-            price: "$1000",
-            description: "Indian women wear many different types of outfits. They have separate attire for work, a different outfit for home, something different for party scenes and so on. The saree is perhaps the most talked about outfit in India."
-        }
-        
     ]
 };
 
