@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+header{
+    padding: 20px;
+}
+.navbar{
+    background:#333;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 30px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.title{
+    margin-top: 30px;
+}
+h1{
+    color: white;
+    margin-right: 25px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+    text-decoration: none;
+}
+.btn{
+    background-color: rgb(67, 67, 245);
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 90px;
+}
+.btn a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    display: inline-flex;
+}
+ul{
+    margin-top: 30px;
+}
+
+
+.body{
+    display: flex;
+    min-height: 80vh;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 360px;
+    box-shadow: 0 0 8px white;
+    transition: all 0.3s easy;
+    opacity: 0.6;
+    justify-content: center;
+}
+.feedback{
+    width: 100%;
+    text-align: center;
+    padding: 25px 20px;
+}
+form h1{
+    padding: 10px 0;
+}
+form .id{
+    position: relative;
+}
+.id i{
+    position: absolute;
+    font-size: 20px;
+    top: 30%;
+    right: 20px;
+    transform: translate(-50%);
+}
+form input{
+    width: 100%;
+    height: 50px;
+    margin: 4px 0;
+    border: 1px solid #0a0a0a;
+    border-radius: 3px;
+    padding: 0.15px;
+    padding-right: 45px;
+    font-size: 20px;
+}
+form textarea{
+    padding: 5px 15px;
+    border: 1px solid #070707;
+    border-radius: 3px;
+    padding: 0.15px;
+    font-size: 20px;
+    width: 100%;
+    margin: 4px 0;
+}
+form button{
+    margin-top: 5px;
+    border: none;
+    background:  blue;
+    color: #030507;
+    padding: 10px 0;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 800;
+    cursor: pointer;
+    border-radius: 3px;
+}
+footer{
+    background-color:gray;
+    color: white;
+    text-align: center;
+    padding: 1%;
+    position: fixed;
+    width: 100%; 
+    bottom: 0;
+}
+
+
+
+
+
+
+
+
